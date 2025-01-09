@@ -1,4 +1,5 @@
-# Exploration Robot using Artificial Intelligence
+# Exploration Rescue Robot for Disaster Response
+
 
 ![image](https://github.com/alihayder55/AI-Robot/assets/156635408/3776bac0-5b2d-4cad-9b47-443b4dbeb47d)
 
